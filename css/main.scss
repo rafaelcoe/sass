@@ -1,0 +1,12 @@
+@import 'texto';
+
+body{
+    background-color: blueviolet;
+    font-family: sans-serif;
+}
+
+.container{
+    p{
+        color: $text;
+    }
+}

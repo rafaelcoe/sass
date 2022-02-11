@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,IAAI,CAAA,EACA,gBAAgB,EAAE,UAAU,EAC5B,WAAW,EAAE,UAAU,GAC1B;;AAED,AACI,UADM,CACN,CAAC,CAAA,EACG,KAAK,ECTN,IAAI,GDUN",
+    "sources": [
+        "main.scss",
+        "_texto.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
